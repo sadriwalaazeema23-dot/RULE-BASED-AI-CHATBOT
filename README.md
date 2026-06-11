@@ -1,5 +1,3 @@
-# decodelab-project1-chatbot
-Rule-Based AI Chatbot - DecodeLab Internship
 # 🤖 Project 1: Rule-Based AI Chatbot
 ### DecodeLab Internship
 
